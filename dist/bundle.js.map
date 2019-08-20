@@ -1,0 +1,1 @@
+{"version":3,"file":"bundle.js","sources":["../src/my-slider.js","../src/main.js"],"sourcesContent":["export default 'my-slider';","import mySlider from './my-slider';\n\nconsole.log(mySlider);\n"],"names":[],"mappings":";;;AAAA,gBAAe,WAAW;;4BAAC,3BCE3B,OAAO,CAAC,GAAG,CAAC,QAAQ,CAAC,CAAC;;;;"}
