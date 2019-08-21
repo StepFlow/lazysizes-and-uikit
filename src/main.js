@@ -1,5 +1,7 @@
-import mySlider from './modules/my-slider';
+import UIkit from 'uikit';
+import Icons from 'uikit/dist/js/uikit-icons';
+import mySlider from './components/my-slider/my-slider';
 
 import styles from './styles.sass';
 
-console.log(mySlider);
+UIkit.use(Icons);
